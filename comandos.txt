@@ -1,0 +1,18 @@
+COMANDOS TECHACK
+
+cat /etc/passwd
+top
+cat /proc/meminfo
+cat /proc/cpuinfo
+ls -l
+cd -
+vim Downloads -     Mostra que diretório é, na verdade, um arquivo
+pwd
+env
+netstat -ant
+netstat -antp
+tcpdump -r captura1.pcap
+sudo tcpdump -n port 443 -w captura.pcap
+whois insper.edu.br
+cat /etc/services
+pstree
