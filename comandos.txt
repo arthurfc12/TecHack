@@ -16,3 +16,6 @@ sudo tcpdump -n port 443 -w captura.pcap
 whois insper.edu.br
 cat /etc/services
 pstree
+nmap
+nikto
+
